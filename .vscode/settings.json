@@ -1,0 +1,4 @@
+{
+    "azureML.defaultWorkspaceId": "/subscriptions/1ba7e68c-b04a-454f-bde7-cce61bb0824f/resourceGroups/ml/providers/Microsoft.MachineLearningServices/workspaces/proyek-msib-alfan",
+    "jupyter.jupyterServerType": "local"
+}
